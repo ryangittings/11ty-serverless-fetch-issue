@@ -5,7 +5,7 @@ So, here's a test case to describe my issue.
 Two URLs:
 
 - /build/
-- /serverless
+- /serverless/
 
 Hit the serverless endpoint, and with every hit you'll see the verbose setting with Fetch log that it's fetching:
 
